@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MuCore/.vs/MuCore
+/MuCore/MuCore/bin/Debug/net5.0
+/MuCore/MuCore/obj
+/MuCore/MuCore.Identity/obj
+/MuCore/MuCore.Input/bin/Debug/net5.0
+/MuCore/MuCore.Input/obj
+/MuCore/MuCore.Queue/bin/Debug/net5.0
+/MuCore/MuCore.Queue/obj
+/MuCore/MuCore.Server/bin/Debug/net5.0
+/MuCore/MuCore.Server/obj
